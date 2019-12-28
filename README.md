@@ -1,1 +1,2 @@
-# titanic-survivor-linear-regression-model
+# titanic-survivor-logistic
+-regression-model
